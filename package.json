@@ -1,0 +1,27 @@
+{
+  "name": "ali",
+  "version": "1.0.1",
+  "description": "Alina A Discord bot that  ranking, music, moderation and much more, all open source!",
+  "main": "index.js",
+  "dependencies": {
+    "ytdl-core": "^4.9.0"
+  },
+  "devDependencies": {},
+  "engines": {
+   "node": ">=14.0.0",
+  "scripts": {
+        "start": "bash ./DockerGC/gc/run.sh build"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tathaha/DockerGC.git"
+      },
+      "keywords": [
+        "discord"
+      ],
+      "author": "harukifi#9450",
+      "license": "MIT",
+      "bugs": "https://github.com/brblacky/Alina/issues",
+      "homepage": "https://github.com/brblacky/Alina#readme"
+  }  
+}
