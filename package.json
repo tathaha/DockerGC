@@ -4,7 +4,7 @@
   "description": "Alina A Discord bot that  ranking, music, moderation and much more, all open source!",
   "main": "index.js",
   "dependencies": {
-    "discord": "^13.9.0"
+    "discord": "^13.0.0"
   },
   "devDependencies": {},
   "engines": {
